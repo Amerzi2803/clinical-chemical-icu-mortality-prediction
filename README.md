@@ -9,7 +9,7 @@ Predict ICU mortality using clinical and chemical lab data with XGBoost and ML t
 
 ---
 
-## 🔹 Project Overview
+##  Project Overview
 This project aims to predict **ICU mortality** using a blend of **clinical and chemical lab test data**.  
 We leverage machine learning techniques to help hospitals identify high-risk patients and make data-driven clinical decisions.
 
@@ -21,13 +21,13 @@ We leverage machine learning techniques to help hospitals identify high-risk pat
 
 ---
 
-## 🔹 Problem Statement
+##  Problem Statement
 ICU mortality prediction is a critical task in healthcare analytics.  
 By integrating chemical lab results with clinical patient data, hospitals can prioritize care for high-risk patients and optimize resource allocation.
 
 ---
 
-## 🔹 Key Steps in Project
+##  Key Steps in Project
 1. **Data Exploration & Preprocessing**
    - Handled missing values
    - Numeric scaling & one-hot encoding for categorical features
@@ -46,7 +46,7 @@ By integrating chemical lab results with clinical patient data, hospitals can pr
 
 ---
 
-## 📊 Results (XGBoost)
+##  Results (XGBoost)
 
 **Confusion Matrix:**
 
